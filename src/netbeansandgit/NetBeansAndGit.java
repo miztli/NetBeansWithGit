@@ -17,7 +17,7 @@ public class NetBeansAndGit {
     public static void main(String[] args) {
         System.out.println("trying git - netbeans");
 
-        System.out.println("Making a change from other machine again");
+        System.out.println("Making a change from my machine");
 
     }
     
